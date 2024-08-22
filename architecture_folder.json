@@ -1,0 +1,31 @@
+{
+    "raster": {
+        "RGB": "",
+        "NIR_band": ""
+    },
+    "shape": {
+        "grid": "",
+        "split": "",
+        "annotation_class": "",
+        "split_buffer": ""
+    },
+    "output": {
+        "image_radiometry_fix": {
+            "RGB_fix": "",
+            "NIR_fix": "",
+            "class_filter": ""
+        },
+        "final_shape": "",
+        "prediction": "",
+        "train": {
+            "ds_train": "",
+            "ds_test": "",
+            "ds_no_limit": "",
+            "ds_more_data": ""
+        }
+    },
+    "modelos": {
+        "transfomer": {},
+        "encoder": {}
+    }
+}
