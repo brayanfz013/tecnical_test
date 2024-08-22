@@ -8,7 +8,7 @@ Condiciones generales de la prueba:
 
     - Se valorará un entregable bien documentado.
 
-    - Los entregables de los desafíos #1 y #2 deben ser publicados en su GitHub personal y compartido el enlace del repo de forma pública (NO privada),incluyendo código fuente, artefactos y documentación. Se sugiere no mencionar a Global MVM dentro del código fuente y la documentación para evitar el “spoiler” a futuros candidatos. Evite clonar repos/trabajos de otras personas, valoramos el esfuerzo por realizar un trabajo de su propia autoría.
+    - Los entregables de los desafíos #1 y #2 deben ser publicados en su GitHub personal y compartido el enlace del repo de forma pública (NO privada),incluyendo código fuente, artefactos y documentación. 
 
 
 ## __[DESAFIO #1] Machine Learning & MLOps__
